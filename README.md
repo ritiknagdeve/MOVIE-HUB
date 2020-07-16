@@ -3,9 +3,10 @@ A web app build with Bootstrap, manual CSS and JavaScript (JQuery) using axios c
 # How to run
 + clone the repository: *git clone https://github.com/ritiknagdeve/MOVIE-HUB.git*
 + run *index.html* in any browser.
-*OR*
+                                   ||*OR*||
 + clone the repository: *git clone https://github.com/ritiknagdeve/MOVIE-HUB.git*
-+ If you have node installed in system you can install live-server  using : "npm install live-server"
++ If you have node installed in system you can install live-server  using : *npm install live-server*
++ In Command Prompt cd into MOVIE-HUB diectory and type : *live-server*
 # axios
 + If you have node installed in system you can install axios  using : *npm install axios*
 + OR you can use axios cdn.
