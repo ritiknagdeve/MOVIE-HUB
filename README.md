@@ -2,7 +2,7 @@
 A web app build with Bootstrap, manual CSS and JavaScript (JQuery) using axios client for making requests and TMDb API to fetch Movie data.
 
 # Screenshots
-Main Page ->
++ Main Page 
 <img width="952" alt="mainpage" src="https://user-images.githubusercontent.com/67960782/87724173-9a12ad00-c7d8-11ea-8e03-4a7b5fc75caf.PNG">
 
 Main Page after searching for movie ->
