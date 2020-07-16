@@ -1,5 +1,5 @@
 # MOVIE-HUB
-A web app build with bootstrap and  JavaScript (JQuery) using tmdb api.
+A web app build with JavaScript (JQuery) using tmdb api along with bootstrap and manual css.
 # Screenshots
 Main Page ->
 <img width="952" alt="mainpage" src="https://user-images.githubusercontent.com/67960782/87724173-9a12ad00-c7d8-11ea-8e03-4a7b5fc75caf.PNG">
