@@ -1,14 +1,14 @@
 # MOVIE-HUB
 A web app build with Bootstrap, manual CSS and JavaScript (JQuery) using axios client for making requests and TMDb API to fetch Movie data.
 # How to run
-+ clone the repository: **git clone https://github.com/ritiknagdeve/MOVIE-HUB.git**
++ clone the repository: '''git clone https://github.com/ritiknagdeve/MOVIE-HUB.git'''
 + run **index.html** on any server.
 +                                 ||OR||
-+ clone the repository: **git clone https://github.com/ritiknagdeve/MOVIE-HUB.git**
-+ If you have node installed in system you can install live-server  using : **npm install live-server**
-+ In Command Prompt cd into MOVIE-HUB directory and run : **live-server**
++ clone the repository: '''git clone https://github.com/ritiknagdeve/MOVIE-HUB.git'''
++ If you have node installed in system you can install live-server  using : '''npm install live-server'''
++ In Command Prompt cd into MOVIE-HUB directory and run : '''live-server'''
 # axios
-+ If you have node installed in system you can install axios  using : **npm install axios**
++ If you have node installed in system you can install axios  using : '''npm install axios'''
 + OR you can use axios cdn.
 # Screenshots
 + **Main Page**
