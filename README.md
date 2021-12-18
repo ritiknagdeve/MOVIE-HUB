@@ -12,7 +12,7 @@ A web app build with Bootstrap, manual CSS and JavaScript (JQuery) using axios c
 + OR you can use axios cdn.
 # Screenshots
 + **Main Page**
-<img width="952" alt="mainpage" src="https://github.com/ritiknagdeve/MOVIE-HUB/blob/master/SharedScreenshot.jpg">
+<img width="952" alt="mainpage" src="https://https://github.com/ritiknagdeve/MOVIE-HUB/blob/master/mainpage.PNG">
 
 + **Main Page after searching for movie** 
 <img width="952" alt="mainpagemovies" src="https://user-images.githubusercontent.com/67960782/87724181-9ed76100-c7d8-11ea-8f3e-ff36f7e1d5a3.PNG">
